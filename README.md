@@ -1,2 +1,2 @@
-# android_ejecutar_tarea_geofencing
-Detectar si un usuario ha ingresado a un Radio de Geofence y Ejecutar una determinada Tarea (Java)
+# Detectar si un usuario ha ingresado a un Radio de Geofence y Ejecutar una determinada Tarea (Java)
+En lo personal estoy trabajando un proyecto con la API Geofencing de Google y bueno no encontré mucha información referente a lo que el titulo de este artículo menciona, es decir poder llevar acabo una determinada tarea cuando un objeto o elemento que cuente con coordenadas de Latitud y Longitud ingreso dentro de un radio especifico que puede ser 100, 300 o 600 metros el que desees no hay problema, en este artículo comparto como hacer esto. 
