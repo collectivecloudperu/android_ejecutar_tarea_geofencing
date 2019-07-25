@@ -8,7 +8,8 @@ Location.distanceBetween(latp,lngp,latc,lngc,distgeo);
 
 if(distgeo[0] < 300){ 
 
-	// Ejecuto una tarea } 
+	// Ejecuto una tarea 
+} 
 
 // Si no es así realizo alguna tarea 
 else { 
